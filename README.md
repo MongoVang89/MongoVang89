@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello! Nice to see you.
 
 - 🔭 I’m currently working on Shopify Projects
 - 🌱 I’m currently learning JavaScript
