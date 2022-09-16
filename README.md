@@ -1,8 +1,8 @@
 ![welcome](https://user-images.githubusercontent.com/113627753/190551273-97092c37-f0bb-4107-98db-c91708f9de8f.png)
 
-<p> Welcome to my page! <br> I'm from <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/emojipedia/132/flag-for-north-carolina-usnc_1f3f4-e0075-e0073-e006e-e0063-e007f.png" width="30"/> North Carolina, USA.
+<p> Welcome to my page! <br> I'm from <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/emojipedia/132/flag-for-north-carolina-usnc_1f3f4-e0075-e0073-e006e-e0063-e007f.png" width="30"/> North Carolina, USA. <br> I also have knowledge in Facebook | Google PPC Marketing and business system automations.
   
-  <h3>What I Code With</h3>
+  <h3>What I Code With...</h3>
     <p>
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-important?style=flat&logo=html5&logoColor=white"/>
     <img alt="css3" src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white"/>
