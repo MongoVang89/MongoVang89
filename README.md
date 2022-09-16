@@ -1,6 +1,6 @@
 ![welcome](https://user-images.githubusercontent.com/113627753/190551273-97092c37-f0bb-4107-98db-c91708f9de8f.png)
 
-<p> Welcome to my page! <br> I'm from <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/emojipedia/132/flag-for-north-carolina-usnc_1f3f4-e0075-e0073-e006e-e0063-e007f.png" width="30"/> North Carolina, USA. <br> I also have knowledge in Facebook | Google PPC Marketing and business system automations.
+<p> Welcome to my page! <br> I'm from <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/emojipedia/132/flag-for-north-carolina-usnc_1f3f4-e0075-e0073-e006e-e0063-e007f.png" width="30"/> North Carolina, USA. <br> I also have knowledge in Facebook | Google PPC Marketing and business system automations (onboarding & fullfillment).
   
   <h3>What I Code With...</h3>
     <p>
