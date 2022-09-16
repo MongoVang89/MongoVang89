@@ -14,4 +14,4 @@
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about Shopify Store Setup
 - 📫 How to reach me: mongovang89@gmail.com
-- ⚡ Fun fact: I broke my right elbow at 3 yrs old and drowned at 7 yrs old
+- ⚡ Fun fact: I broke my right elbow at 3 yrs old and drowned at 7
